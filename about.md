@@ -28,6 +28,4 @@
 ## Пишите нам со своими крутыми идеями на почту: __elevationminesup@gmail.com__ , или: __[в личные сообщения сообщества](https://vk.me/elevation_mine "лс группы")__
 
 
-```BASH
-echo Bruh
-```
+
