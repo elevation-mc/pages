@@ -33,5 +33,5 @@ __3.4__ Elevation оставляет за собой право отказать
 Представитель во вконтакте - https://vk.com/dolbomat  
 Второй владелец акций во вконтакте - https://vk.com/bykov_is  
 Официальная почта проекта - elevationminesup@gmail.com  
-Тех.поддержка во вконтакте - vk.me/elevation_mine  
+Тех.поддержка во вконтакте - https://vk.me/elevation_mine  
 Официальная группа проекта во вконтакте - https://vk.com/elevation_mine  
