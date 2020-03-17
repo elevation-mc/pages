@@ -53,3 +53,5 @@ __5__ Ручная реферальная система
 </details>
 
 __6__ Возможность единоразовой выдачи договорного капитала,чтобы не наполнять контент рутиной по типу работы в шахте.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aufs8w0Fz-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
