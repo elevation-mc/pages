@@ -27,5 +27,6 @@
 
 ## Пишите нам со своими крутыми идеями на почту: __elevationminesup@gmail.com__ , __admin@elevation-mine.ru__ или: __[в личные сообщения сообщества](https://vk.me/elevation_mine "лс группы")__
 
+<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/aufs8w0Fz-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
 
