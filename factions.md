@@ -23,3 +23,4 @@
 -быть грамматически подкованным  
 -иметь частый суточный онлайн  
 -иметь roleplay ник (в формате **имя_фамилия**)  
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/hCaMz1-v0OI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
