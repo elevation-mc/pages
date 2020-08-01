@@ -1,8 +1,10 @@
 ## Фракции
 ### Оглавление
 **RED WOLVES**  
-~~**POLICE**~~  
-**Правила фракций**
+~~**POLICE**~~ **(_FCB_)**  
+**[Правила фракций](https://elevation-mine.ru/factions/rules)**  
+**[Уголовный кодекс](https://elevation-mine.ru/factions/uk)**  
+**[Административный кодекс](https://elevation-mine.ru/factions/ak)**  
 
 Чтобы встать на пост лидера вы должны оставить заявку в __[личных сообщениях группы вк](https://vk.me/elevation_mine)__
 
