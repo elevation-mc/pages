@@ -1,7 +1,7 @@
 ## Фракции
 ### Оглавление  
 ~~**RED WOLVES**~~ **(Mario_MacCarti)**  
-~~**POLICE**~~ **(_FCB_)**  
+~~**POLICE**~~ **(Stanislav_Babich)**  
 **[Правила фракций](https://elevation-mine.ru/factions/rules)**  
 **[Уголовный кодекс](https://elevation-mine.ru/factions/uk)**  
 **[Административный кодекс](https://elevation-mine.ru/factions/ak)**  
