@@ -1,7 +1,7 @@
 ## Фракции
 ### Оглавление  
-~~**RED WOLVES**~~ **(Mario_MacCarti)**  
-~~**POLICE**~~ **(Stanislav_Babich)**  
+~~**RED WOLVES**~~ **(Mario_MacCarti)** - дискорд сервер Red Wolves: https://discord.gg/4TAGmZC  
+~~**POLICE**~~ **(Stanislav_Babich)** - дискорд сервер POLICE DEPORTAMENT #1: https://discord.gg/vvCVwhB  
 **[Правила фракций](https://elevation-mine.ru/factions/rules)**  
 **[Уголовный кодекс](https://elevation-mine.ru/factions/uk)**  
 **[Административный кодекс](https://elevation-mine.ru/factions/ak)**  
